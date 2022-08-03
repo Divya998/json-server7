@@ -1,0 +1,158 @@
+{ "viewcall":
+ [
+    {
+        "callNumber": "CM63120",
+        "assignedTo": "Johan Lucas",
+        "Status": "Open",
+        "breifDescription": "Other",
+        "callDate": "31 May 22 10:03",
+        "maintenanceGroup":"Infrastrucutre",
+        "type": "Doors",
+        "site": "Alrode Prod",
+        "Supplier": "TFMC"
+    },
+    {
+        "callNumber": "CM63121",
+        "assignedTo": "Johan Lucas",
+        "Status": "Open",
+        "breifDescription": "Other",
+        "callDate": "31 May 22 10:03",
+        "maintenanceGroup":"Infrastrucutre",
+        "type": "Doors",
+        "site": "Alrode Prod",
+        "Supplier": "TFMC"
+    },
+    {
+        "callNumber": "CM63122",
+        "assignedTo": "Johan Lucas",
+        "Status": "Open",
+        "breifDescription": "Other",
+        "callDate": "31 May 22 10:03",
+        "maintenanceGroup":"Infrastrucutre",
+        "type": "Doors",
+        "site": "Alrode Prod",
+        "Supplier": "TFMC"
+    },
+    {
+        "callNumber": "CM63123",
+        "assignedTo": "Johan Lucas",
+        "Status": "Open",
+        "breifDescription": "Other",
+        "callDate": "31 May 22 10:03",
+        "maintenanceGroup":"Infrastrucutre",
+        "type": "Doors",
+        "site": "Alrode Prod",
+        "Supplier": "TFMC"
+    },
+    {
+        "callNumber": "CM63124",
+        "assignedTo": "Johan Lucas",
+        "Status": "Open",
+        "breifDescription": "Other",
+        "callDate": "31 May 22 10:03",
+        "maintenanceGroup":"Infrastrucutre",
+        "type": "Doors",
+        "site": "Alrode Prod",
+        "Supplier": "TFMC"
+    },
+    {
+        "callNumber": "CM63125",
+        "assignedTo": "Johan Lucas",
+        "Status": "Open",
+        "breifDescription": "Other",
+        "callDate": "31 May 22 10:03",
+        "maintenanceGroup":"Infrastrucutre",
+        "type": "Doors",
+        "site": "Alrode Prod",
+        "Supplier": "TFMC"
+    },
+    {
+        "callNumber": "CM63126",
+        "assignedTo": "Johan Lucas",
+        "Status": "Open",
+        "breifDescription": "Other",
+        "callDate": "31 May 22 10:03",
+        "maintenanceGroup":"Infrastrucutre",
+        "type": "Doors",
+        "site": "Alrode Prod",
+        "Supplier": "TFMC"
+    },
+    {
+        "callNumber": "CM63127",
+        "assignedTo": "Johan Lucas",
+        "Status": "Open",
+        "breifDescription": "Other",
+        "callDate": "31 May 22 10:03",
+        "maintenanceGroup":"Infrastrucutre",
+        "type": "Doors",
+        "site": "Alrode Prod",
+        "Supplier": "TFMC"
+    },
+    {
+        "callNumber": "C63136",
+        "assignedTo": "Dhiren Totaram",
+        "Status": "Open",
+        "breifDescription": "Electrical equipment",
+        "callDate": "12 May 22 11:06",
+        "maintenanceGroup":"Infrastrucutre",
+        "type": "Other",
+        "site": "Alrode Prod",
+        "Supplier": "TFMC"
+    },
+    {
+        "callNumber": "C63135",
+        "assignedTo": "Dhiren Totaram",
+        "Status": "Open",
+        "breifDescription": "Other",
+        "callDate": "11 May 22 11:06",
+        "maintenanceGroup":"Infrastrucutre",
+        "type": "Other",
+        "site": "Alrode Prod",
+        "Supplier": "TFMC"
+    },
+    {
+        "callNumber": "C63134",
+        "assignedTo": "Dhiren Totaram",
+        "Status": "Open",
+        "breifDescription": "O/S Money",
+        "callDate": "09 May 22 11:06",
+        "maintenanceGroup":"Fridges",
+        "type": "Landloard/Lawer",
+        "site": "Alrode Prod",
+        "Supplier": "TFMC"
+    },
+    {
+        "callNumber": "C63133",
+        "assignedTo": "Dhiren Totaram",
+        "Status": "Open",
+        "breifDescription": "O/S Money",
+        "callDate": "09 May 22 11:06",
+        "maintenanceGroup":"Fridges",
+        "type": "Landloard/Lawer",
+        "site": "Alrode Prod",
+        "Supplier": "TFMC"
+    },
+    {
+        "callNumber": "C63132",
+        "assignedTo": "Dhiren Totaram",
+        "Status": "Open",
+        "breifDescription": "Other",
+        "callDate": "11 May 22 11:06",
+        "maintenanceGroup":"Infrastrucutre",
+        "type": "Other",
+        "site": "Alrode Prod",
+        "Supplier": "TFMC"
+    },
+    {
+        "callNumber": "C63131",
+        "assignedTo": "Dhiren Totaram",
+        "Status": "Open",
+        "breifDescription": "Other",
+        "callDate": "04 May 22 11:08",
+        "maintenanceGroup":"Infrastrucutre",
+        "type": "Other",
+        "site": "Alrode Prod",
+        "Supplier": "TFMC"
+    }
+]
+}
